@@ -1,0 +1,27 @@
+准备工作：
+1.下载CUDA5.0（未测试该方法）；或下载三个dll，分别为cudart64_80.dll，cublas64_80.dll，curand64_80.dll。
+2.下载OpenCV3.1.0。
+3.下载训练模型：http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/coco/pose_iter_440000.caffemodel
+
+配置工作：
+1.将3个dll存入system32和SysWoW64，或正确配置CUDA5.0。
+2.将OpenCV文件夹中的build\include下的两个文件夹都加入VS的包含目录。
+3.将OpenCV文件夹下的build\x64\vc14\lib加入库目录，并设定VS-连接器-附加依赖项为opencv_world310.lib（Release状态），设定VS-连接器-附加依赖项为opencv_world310d.lib（Debug状态）。
+4.将OpenCV文件夹下build\x64\vc14\bin的所有文件复制到system32和SysWoW64。
+5.主程序头的引用部分改为：
+#include "classification.h"
+
+#include <cv.h>
+
+#include <opencv2/opencv.hpp>
+
+#include <highgui.h>
+
+#include "fastMath.hpp"
+
+#include <functional>
+6.将第2步库目录下opencv2\objdetect.hpp的第127行代码
+double delta = eps*(std::min(r1.width, r2.width) + std::min(r1.height, r2.height))*0.5;
+改为
+double delta = eps*((std::min)(r1.width, r2.width) + (std::min)(r1.height, r2.height))*0.5;
+7.将训练模型复制到主程序文件相同的文件夹下。
