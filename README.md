@@ -1,7 +1,7 @@
 TEAM NO._______2_____
 ## TEAM LEADER: 
 (Name, student ID number)
-TEAM PARTNER:.
+TEAM PARTNER:
 1.(钟欣瑞, 2018112866)
 2.(唐绍武，2018110101)
 3.(沈博翰，2018111750)
