@@ -40,6 +40,7 @@
 >>体现我们设计感的当属这个外壳啦！！外壳全由亚克力板制作，激光切割成零件，最后拼接成型。完美解决jetson nano散热的问题，别出心裁的想出了圆片累加的方式实现激光切割难以实现的圆角正方体。其中的布线合理，美观，不愧于我们认真的设计。
 ![image](https://github.com/Tavis0/life-lights/raw/master/p/微信图片_20190611003230.jpg)
 ## **最终成果**
+>> 我们最终完成了基于openpose的人体识别,并在点阵上实现了关键的输出.我们成功了!!!
 ![image](https://github.com/Tavis0/life-lights/raw/master/p/image.png)
 >>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190614_233342.jpg)
 >>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190615_230608_1.jpg)
