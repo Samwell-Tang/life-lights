@@ -41,13 +41,14 @@
 >>![image](https://github.com/Tavis0/life-lights/raw/master/p/微信图片_20190611003230.jpg)
 >>![image](https://github.com/Tavis0/life-lights/raw/master/p/微信图片_20190624181807.jpg)
 >>![image](https://github.com/Tavis0/life-lights/raw/master/p/微信图片_20190624181938.jpg)
+>>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190614_233342.jpg)
+>>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190615_230608_1.jpg)
+>>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190615_230615.jpg)
+>>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190615_230621.jpg)
 ## **最终成果**
 >> 我们最终完成了基于openpose的人体识别,并在点阵上实现了关键的输出.我们成功了!!!!
 >>![image](https://github.com/Tavis0/life-lights/raw/master/p/image.png)
 >>![image](https://github.com/Tavis0/life-lights/raw/master/p/WeChat_20190624181652_Trim.gif)
 >>![image](https://github.com/Tavis0/life-lights/raw/master/p/WeChat_20190624181845_Trim.gif)
->>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190614_233342.jpg)
->>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190615_230608_1.jpg)
->>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190615_230615.jpg)
->>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190615_230621.jpg)
+
 
