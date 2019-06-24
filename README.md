@@ -41,3 +41,8 @@
 ![image](https://github.com/Tavis0/life-lights/raw/master/p/微信图片_20190611003230.jpg)
 ## **最终成果**
 ![image](https://github.com/Tavis0/life-lights/raw/master/p/image.png)
+>>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190614_233342.jpg)
+>>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190615_230608_1.jpg)
+>>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190615_230615.jpg)
+>>![image](https://github.com/Tavis0/life-lights/blob/master/p/IMG_20190615_230621.jpg)
+
